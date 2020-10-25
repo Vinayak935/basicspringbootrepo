@@ -9,4 +9,10 @@ public class Car {
 	{
 		System.out.println("Car is Starting");
 	}
+	
+	public void stop()
+	{
+		//Jira HIS-122 Working
+		System.out.println("Stoping the car");
+	}
 }
