@@ -15,4 +15,10 @@ public class Car {
 		//Jira HIS-122 Working
 		System.out.println("Stoping the car");
 	}
+	
+	public void devBike()
+	{
+		System.out.println("This is Developer branch");
+	}
+	
 }
